@@ -1,6 +1,10 @@
 # Evidencia-computacion-en-java
 Protyecto desarrollado como parte de la materia "Computacion en Java" Usando el lenguaje de programacion java
 -----------
+Descripcion del programa
+
+Este programa es un sistema de citas médicas que permite registrar doctores y pacientes, crear citas con fecha y hora, y relacionarlas con un doctor y un paciente específico. Además, incluye un control de acceso para que solo administradores autorizados puedan usar el sistema mediante un identificador y contraseña. Está diseñado para ser simple y útil en la gestión básica de consultas médicas.
+
 Instalacion y configuracion 
 1.Clona el repositorio desde git bash
 git clone git@github.com:Shindrat05/Evidencia-computacion-en-java.git
